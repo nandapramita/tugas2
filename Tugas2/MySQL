@@ -1,0 +1,13 @@
+CREATE TABLE karyawan (
+    nik INT PRIMARY KEY,
+    nama VARCHAR(255),
+    upah_per_jam INT,
+    jam_kerja INT,
+    jam_lembur INT);
+
+INSERT INTO karyawan (nik, nama, upah_per_jam, jam_kerja, jam_lembur) VALUES
+(101, 'Ani', 40000, 48, 0),
+(102, 'Boi', 35000, 48, 0),
+(103, 'Cia', 25000, 48, 0),
+(104, 'Dwi', 50000, 48, 0),
+(105, 'Epi', 60000, 48, 0);
