@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, sans-serif;}
+
+h1{
+    color: #333;}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;}
+
+table, th, td{
+    border: 1px solid #ddd;}
+
+th, td{
+    padding: 10px;
+    text-align: left;}
+
+button{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #213555;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;}
+
+button:hover{
+    background-color: #ECF2FF;
+    color: #212A3E;}
