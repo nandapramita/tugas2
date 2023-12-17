@@ -1,5 +1,5 @@
 # tugas2
-Tugas2/sistemgaji (1).png
+[Tugas2/sistemgaji (1).png](https://github.com/nandapramita/tugas2/blob/main/Tugas2/sistemgaji%20(1).png)
 
 Tugas 2 berisi sebuah sistem yang akan menampilkan rekap total upah semua karyawan dari minggu ke-1 hingga minggu ke-4. 
 Dalam kasus ini, setiap karyawan memiliki jam normal kerja 48 jam dan apabila lebih akan mendapatkan upah lembur.
